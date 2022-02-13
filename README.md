@@ -28,7 +28,7 @@ Interfaz de la aplicación en ejecución.
 
 **versión:** 1.0.1
 
-**Creditos:** 
+**Créditos:** 
 
 > Brito Geovanny
 > 
